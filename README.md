@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Siddhani05
-This is a DSA project !
+
+This is a DSA project which uses hashmap to split the expenses among the users !
