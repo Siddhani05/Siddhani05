@@ -1,8 +1,4 @@
-/*DSA MINI PROJECT- Splitwise- Spllit Expense
- UCE2023435-Anushka Kondkar
- UCE2023439-Siddhani Magar
- UCE2023444-Mayuri Dandekar
- */
+
 
 
 import java.util.*;
